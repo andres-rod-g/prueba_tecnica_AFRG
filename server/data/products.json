@@ -1,0 +1,30 @@
+[
+  {
+    "sku": "D-0001",
+    "name": "Pinzas",
+    "price": 1100,
+    "currency": "USD",
+    "taxRate": 19
+  },
+  {
+    "sku": "D-0002",
+    "name": "Correa",
+    "price": 105000,
+    "currency": "COP",
+    "taxRate": 19
+  },
+  {
+    "sku": "D-0003",
+    "name": "Lente",
+    "price": 50,
+    "currency": "USD",
+    "taxRate": 19
+  },
+  {
+    "sku": "D-0004",
+    "name": "Camara",
+    "price": 1023000,
+    "currency": "COP",
+    "taxRate": 19
+  }
+]
